@@ -23,3 +23,11 @@ Esta modificacion nos sirve para aprender MarkDown que por ejemplo los titulos `
 | Version | Modificación | Propietario de la Modificación |
 | ---- | ---- | ---- |
 | 1.0 | Creacion del Readme | Adrian Fernandez |
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+``` 
