@@ -32,6 +32,8 @@ Esta modificacion nos sirve para aprender MarkDown que por ejemplo los titulos `
 }
 ``` 
 
-Estamos en el Gregorio Fernandez. [^1]
+Estamos en el Gregorio Fernandez.
 
 [^1]: Esto es el Gregorio.
+
+### Me gusta Entornos {#custom-id}
