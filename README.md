@@ -20,6 +20,6 @@ Esta modificacion nos sirve para aprender MarkDown que por ejemplo los titulos `
 
 [Gregorio Fernandez] (https://www.gregoriofer.com)
 
-| version | modificación | Propietario de la modificación |
-| ---- | --- | ---- |
-| 1.0 | | Creacion del readme | Adrian Fernandez |
+| Version | Modificación | Propietario de la Modificación |
+| ---- | ---- | ---- |
+| 1.0 | | Creacion del Readme | Adrian Fernandez |
