@@ -26,8 +26,12 @@ Esta modificacion nos sirve para aprender MarkDown que por ejemplo los titulos `
 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  "firstName": "Adrian",
+  "lastName": "Fernandez",
+  "age": 19
 }
 ``` 
+
+Estamos en el Gregorio Fernandez. [^1]
+
+[^1]: Esto es el Gregorio.
