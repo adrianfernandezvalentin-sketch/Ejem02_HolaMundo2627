@@ -45,9 +45,3 @@ Estamos en el Gregorio Fernandez. [^1]
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
-
-
-
-
-
-## Ahora mismo estamos en la rama main y no esta el mensaje del Branch.
