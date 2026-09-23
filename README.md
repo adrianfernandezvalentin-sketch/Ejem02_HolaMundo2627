@@ -32,7 +32,7 @@ Esta modificacion nos sirve para aprender MarkDown que por ejemplo los titulos `
 }
 ``` 
 
-Estamos en el Gregorio Fernandez.
+Estamos en el Gregorio Fernandez. [^1]
 
 [^1]: Esto es el Gregorio.
 
