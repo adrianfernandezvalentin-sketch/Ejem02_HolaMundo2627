@@ -15,3 +15,11 @@ Hemos colaborado en el proyecto:
 - Ana
 
 Esta modificacion nos sirve para aprender MarkDown que por ejemplo los titulos `<h1> </h1>` los coloca con una almohadilla
+
+---
+
+[Gregorio Fernandez] (https://www.gregoriofer.com)
+
+| version | modificación | Propietario de la modificación |
+| ---- | --- | ---- |
+| 1.0 | | Creacion del readme | Adrian Fernandez |
